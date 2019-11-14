@@ -16,6 +16,10 @@
 "scripts": {
     "babel": "babel test.js --watch --out-file finalCode.js"
   }
+  
+  "babel":{
+    "presets":["es2015"]
+  }
 ```
 #### 测试运行
 `npm run babel`

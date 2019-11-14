@@ -9,7 +9,7 @@
 #### 安装babel 插件
 `npm install --save-dev babel-preset-env`
 <br> other one:<br>
-`npm i babel-core babel-preset-es2015`
+`npm install --save-dev babel-cli babel-preset-es2015`
 #### 增加scripts 脚本
 在<strong>package.json</strong>添加(更改)：<br>
 ```

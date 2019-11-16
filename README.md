@@ -1,7 +1,7 @@
 # Babel-tool
 #### 安装npm-node.js
-<br>
-见我blog [csdn_Mr.J](https://blog.csdn.net/Ms_yjk/article/details/103034826 "悬停显示")  
+
+见我blog [csdn_Mr.J](https://blog.csdn.net/Ms_yjk/article/details/103034826 "Babel-tool安装及使用")  
  
 #### 安装babel插件
 `npm install -g babel-cli --svae-dev`

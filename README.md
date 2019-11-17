@@ -4,7 +4,7 @@
 见我blog [csdn_Mr.J](https://blog.csdn.net/Ms_yjk/article/details/103034826 "Babel-tool安装及使用")  
  
 #### 安装babel插件
-`npm install -g babel-cli --svae-dev`
+`npm install -g babel-cli --save-dev`
 
 #### 安装babel 插件
 `npm install --save-dev babel-preset-env`
